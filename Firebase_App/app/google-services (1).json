@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "370424087949",
+    "project_id": "fir-app-88633",
+    "storage_bucket": "fir-app-88633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370424087949:android:ee6de00264bd34db53e9c4",
+        "android_client_info": {
+          "package_name": "lungelo.mbuyane.firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVaTc5tnAJfB9QRBLd6NjLZKdMSby6rtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
